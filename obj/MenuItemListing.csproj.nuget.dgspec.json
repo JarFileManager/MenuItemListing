@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Razj\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {}
+    "D:\\Stage3\\Jatin-935298-CloudConcepts\\Practice Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Razj\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {
+    "D:\\Stage3\\Jatin-935298-CloudConcepts\\Practice Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Razj\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+        "projectUniqueName": "D:\\Stage3\\Jatin-935298-CloudConcepts\\Practice Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
         "projectName": "MenuItemListing",
-        "projectPath": "C:\\Users\\Razj\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
-        "packagesPath": "C:\\Users\\Razj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Razj\\source\\repos\\MenuItemListing\\MenuItemListing\\obj\\",
+        "projectPath": "D:\\Stage3\\Jatin-935298-CloudConcepts\\Practice Check\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Stage3\\Jatin-935298-CloudConcepts\\Practice Check\\MenuItemListing\\MenuItemListing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Razj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: menuitemlisting
-        image: practicecheckcontainer.azurecr.io/menuitemlistingimage:latest
+        image: myazurecontainerregistrycr.azurecr.io/menuitemlistingimage:latest
         ports:
         - containerPort: 80
       imagePullSecrets:
